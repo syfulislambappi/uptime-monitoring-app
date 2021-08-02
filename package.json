@@ -1,0 +1,11 @@
+{
+  "name": "uptime-monitoring-app",
+  "version": "1.0.0",
+  "description": "The app can monitor uptime of a website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "Syful Islam",
+  "license": "MIT"
+}

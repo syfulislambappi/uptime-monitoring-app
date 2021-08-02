@@ -1,0 +1,3 @@
+# Uptime Monitoring Application
+
+User can store their website using the application. The application can monitor the given website stored by user. It will notify the user whether his given website up or down. First of all user should create a account with his Name, Email, Phone, and Password and should agree our term and condititon. The user can store their monitoring website after creating his account in the application. One user can store maximum five websites for monitoring. For monitoring website user have to give some information is protocol, url, method, successcodes, timeoutsecondes. If user want to update their monitoring website the can do it.
